@@ -1,0 +1,23 @@
+{
+  "name": "clone-meteofrance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelique31/clone-site-meteoFrance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelique31/clone-site-meteoFrance/issues"
+  },
+  "homepage": "https://github.com/angelique31/clone-site-meteoFrance#readme",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
